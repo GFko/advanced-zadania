@@ -6,4 +6,4 @@ function countV(text) {
 const input = "testing vowel text";
 const finalCount = countV(input);
 
-console.log("Input text: \"" + input + "\" has " + finalCount + " vowels")
+console.log("Input text: \n\"" + input + "\"\nhas " + finalCount + " vowels")
